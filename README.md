@@ -1,6 +1,9 @@
 # 💫 About Me:
 ↪ ᴜɪ/ᴜx ᴅᴇsɪɢɴᴇʀ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ sᴛᴜᴅᴇɴᴛ.<br>↪ ᴊᴀᴠᴀsᴄʀɪᴘᴛ </><br>↪ ᴘʏᴛʜᴏɴ </>
 
+# 💫 About Me:
+↪ ᴜɪ/ᴜx ᴅᴇsɪɢɴᴇʀ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ sᴛᴜᴅᴇɴᴛ.<br>↪ ᴊᴀᴠᴀsᴄʀɪᴘᴛ </><br>↪ ᴘʏᴛʜᴏɴ </>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/maso7) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Maso7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/maso7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-santos-403660205/) 
@@ -25,7 +28,7 @@
 [![](https://visitcount.itsvg.in/api?id=Maaso7&icon=9&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Christian Maximo Santos de Oliveira) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Christianmaximo97@gmail.com) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
