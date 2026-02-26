@@ -4,13 +4,15 @@
 
 ---
 
-### ✨ Sobre mim
-UI/UX Designer Júnior | Apaixonado por criar interfaces intuitivas e experiências memoráveis.  
+## ✨ Sobre mim
+Christian | UI/UX Júnior | Arte
+
+Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina , conseguimos entregar um pouco de nós ao nosso trabalho..  
 Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels perfeitos.
 
-- 🛠️ Ferramentas principais: Figma, Photoshop, Illustrator, After Effects, VS Code
-- 📚 Estudando programação para complementar o design (JS, Python, etc.)
-- 📍 Osasco, Brasil | Aberto a freelas, estágios e colaborações!
+- 🛠 Ferramentas principais: Figma, Photoshop, VS Code
+- 📚 Evolução constante
+- 📍 Osasco, Brasil | Colabs e freelas
 
 ### 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveiraa/)
