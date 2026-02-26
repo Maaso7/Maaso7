@@ -8,12 +8,12 @@
 **Christian**  
 UI/UX Júnior | Artista
 
-Apaixonado por criar interfaces intuitivas e experiências memoráveis.  
-Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels perfeitos.
+Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels perfeitos.  
+Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina , conseguimos entregar um pouco de nós ao nosso trabalho.
 
-- 🛠 Ferramentas principais: Figma, Photoshop, Illustrator, After Effects, VS Code  
-- 📚 Estudando programação para complementar o design (JavaScript, Python, etc.)  
-- 📍 Osasco, Brasil | Aberto a freelas, estágios e colaborações!
+- 🛠 Ferramentas principais: Figma, Photoshop e VS Code  
+- 📚 Sempre estudando o básico para manter uma base sólida e concreta  
+- 📍 Osasco, Brasil | freelas e colabs
 
 ### 🌐 Conecte-se comigo
 <div align="center">
