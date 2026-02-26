@@ -9,7 +9,7 @@
 UI/UX Júnior | Artista
 
 Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels perfeitos.  
-Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina , conseguimos entregar um pouco de nós ao nosso trabalho.
+Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina, conseguimos entregar um pouco de nós ao nosso trabalho.
 
 - 🛠 Ferramentas principais: Figma, Photoshop e VS Code  
 - 📚 Sempre estudando o básico para manter uma base sólida e concreta  
