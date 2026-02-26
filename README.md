@@ -5,7 +5,8 @@
 ---
 
 ### ✨ Sobre mim
-**Christian** | UI/UX Júnior | Artista & Code
+**Christian**  
+UI/UX Júnior | Artista
 
 Apaixonado por criar interfaces intuitivas e experiências memoráveis.  
 Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels perfeitos.
@@ -43,7 +44,7 @@ Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels
 
 ### Projetos em destaque (pin depois)
 - **DADOS-PYTHON-BOOT-ALURA** – Bootcamp de dados em Python  
-- Outros projetos virão em breve (UI/UX, designs, protótipos...)
+- Mais projetos UI/UX e designs em breve!
 
 ---
 
