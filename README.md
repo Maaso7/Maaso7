@@ -1,39 +1,49 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Christian+Oliveira!;UI%2FUX+Júnior+%7C+Designer+%26+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+Christian;UI%2FUX+Júnior+%7C+Artista+%26+Code" alt="Typing SVG" />
 </div>
 
 ---
 
-## ✨ Sobre mim
-Christian | UI/UX Júnior | Arte
+### ✨ Sobre mim
+**Christian** | UI/UX Júnior | Artista & Code
 
-Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina , conseguimos entregar um pouco de nós ao nosso trabalho..  
+Apaixonado por criar interfaces intuitivas e experiências memoráveis.  
 Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels perfeitos.
 
-- 🛠 Ferramentas principais: Figma, Photoshop, VS Code
-- 📚 Evolução constante
-- 📍 Osasco, Brasil | Colabs e freelas
+- 🛠 Ferramentas principais: Figma, Photoshop, Illustrator, After Effects, VS Code  
+- 📚 Estudando programação para complementar o design (JavaScript, Python, etc.)  
+- 📍 Osasco, Brasil | Aberto a freelas, estágios e colaborações!
 
 ### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveiraa/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/maso7)
-
-## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,html,css,js,python,vscode,git" />
-  <br>
-  <small>(Figma • Photoshop • Illustrator • HTML/CSS/JS • Python • VS Code)</small>
+  <a href="https://www.linkedin.com/in/christian-oliveiraa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/maso7">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+</div>
+
+### 🛠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,html,css,js,python,vscode,git" alt="Tech Stack" />
+</div>
+<div align="center">
+  <small>Figma • Photoshop • Illustrator • After Effects • HTML/CSS/JS • Python • VS Code</small>
 </div>
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaso7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maaso7&theme=radical" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaso7&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maaso7&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maaso7&theme=dark&hide_border=true" alt="Streak" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaso7&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,css" alt="Top Languages" width="48%" />
 </div>
 
 ### Projetos em destaque (pin depois)
-- [DADOS-PYTHON-BOOT-ALURA](link) – Bootcamp de dados em Python
+- **DADOS-PYTHON-BOOT-ALURA** – Bootcamp de dados em Python  
+- Outros projetos virão em breve (UI/UX, designs, protótipos...)
 
 ---
 
