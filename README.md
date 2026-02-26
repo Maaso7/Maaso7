@@ -27,10 +27,7 @@ Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels
 
 ### 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,html,css,js,python,vscode,git" alt="Tech Stack" />
-</div>
-<div align="center">
-  <small>Figma • Photoshop • Illustrator • After Effects • HTML/CSS/JS • Python • VS Code</small>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,python,vscode" alt="Tech Stack" />
 </div>
 
 ### 📊 GitHub Stats
