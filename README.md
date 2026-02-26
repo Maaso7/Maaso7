@@ -18,9 +18,11 @@ Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveiraa/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/maso7)
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,html,css,js,python,php,vscode,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,html,css,js,python,vscode,git" />
+  <br>
+  <small>(Figma • Photoshop • Illustrator • HTML/CSS/JS • Python • VS Code)</small>
 </div>
 
 ### 📊 GitHub Stats
