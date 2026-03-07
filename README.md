@@ -44,5 +44,3 @@ Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de m
 - Mais projetos UI/UX e designs em breve!
 
 ---
-
-Feito com ❤️ e Markdown
