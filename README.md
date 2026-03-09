@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+sou+Christian;UI%2FUX+J%C3%BAnior&repeat=true" 
-    alt="Olá, sou Christian → UI/UX Júnior" 
+    alt="Olá, sou Christian → UI/UX Design Júnior" 
   />
 </div>
 
