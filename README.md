@@ -6,7 +6,7 @@
 
 ### ✨ Sobre mim
 **Christian**  
-UI/UX Júnior | Artista
+Artista | IA Prompet
 
 Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels perfeitos.  
 Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina, conseguimos entregar um pouco de nós ao nosso trabalho.
