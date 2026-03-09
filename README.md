@@ -5,8 +5,9 @@
   />
 </div>
 
-<br>
+---
 
+<br>
 ### Sobre mim
 
 **Christian** 
