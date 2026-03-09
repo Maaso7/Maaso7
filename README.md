@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Ol%C3%A1!Olá+sou+Christian%2C+UI/UX%2FXJ%C3%BAnior+Junior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Christian+UI%2FX+J%C3%BAnior" alt="Olá, sou Christian UI/UX Júnior" />
+  <h2>UI/UX Júnior | Artista</h2>
 </div>
 
 ---
