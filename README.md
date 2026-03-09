@@ -8,7 +8,7 @@
 **Christian**  
 Artista | IA Prompet
 
-Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels perfeitos.  
+Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em entregáveis.  
 Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina, conseguimos entregar um pouco de nós ao nosso trabalho.
 
 - 🛠 Ferramentas principais: Figma, Photoshop e VS Code  
