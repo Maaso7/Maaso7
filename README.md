@@ -21,37 +21,54 @@ Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de m
 - Sempre estudando o básico para manter uma base sólida e concreta  
 - Osasco, Brasil | freelas e colabs
 
-### Conecte-se comigo
+---
+
+## 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/christianmaximo/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/christianmaximo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.behance.net/UXchristian">
+  &nbsp;&nbsp;
+  <a href="https://www.behance.net/christian" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
 </div>
 
-### Tech Stack
+<br>
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,python,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai,html,css,js,python,vscode" alt="Tech Stack" />
 </div>
 
-### GitHub Stats
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UIChristian&show_icons=true&theme=dark&hide_border=true&title=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UIChristian&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" width="55%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UIChristian&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UIChristian&layout=compact&theme=dracula&hide_border=true&cache_seconds=7200" alt="Top Languages" width="55%" />
 </div>
 
-### Projetos em Destaque (pinned)
+<br>
+
+## Projetos em Destaque (Pinned)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UIChristian&repo=DADOS-PYTHON-BOOT-ALURA&theme=dark&hide_border=true" alt="Bootcamp Dados Python - Alura" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UIChristian&repo=DADOS-PYTHON-BOOT-ALURA&theme=dracula&hide_border=true&cache_seconds=7200" alt="Bootcamp Dados Python - Alura" />
 </div>
+
+<br>
 
 Mais projetos UI/UX e designs em breve...
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ in Osasco, BR</sub>
+</div>
