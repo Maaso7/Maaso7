@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Christian+UI%2FX+J%C3%BAnior" alt="Olá, sou Christian UI/UX Júnior" />
-  <h2>UI/UX Júnior | Artista</h2>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+sou+Christian+UI%2FUX+J%C3%BAnior" 
+  />
+  <h3>UI/UX Júnior | Artista</h3>
 </div>
+
+<br>
 
 ---
 
