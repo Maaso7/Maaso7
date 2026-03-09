@@ -11,7 +11,7 @@
 
 **Christian** 
  
-**Artista | SP ** 
+**Artista | SP** 
 
 Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em entregas digitais.  
 Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina, conseguimos entregar um pouco de nós ao nosso trabalho.
