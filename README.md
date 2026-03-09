@@ -1,51 +1,46 @@
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+sou+Christian;UI%2FUX+Design+J%C3%BAnior&repeat=true" 
-    alt="Olá, sou Christian → UI/UX Design Júnior" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+Christian;UI%2FUX+Júnior+%7C+Artista" alt="Typing SVG" />
 </div>
 
 ---
 
-<br>
-## ✨ Sobre mim
-
-**Christian**
+### ✨ Sobre mim
+**Christian**  
 UI/UX Júnior | Artista
 
-Misturando arte 🎨 e tecnologia 💻 para transformar ideias em pixels perfeitos.
+Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em pixels perfeitos.  
 Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina, conseguimos entregar um pouco de nós ao nosso trabalho.
 
-* 🛠️ Ferramentas principais: Figma, Photoshop e VS Code
-* 📚 Sempre estudando o básico para manter uma base sólida e concreta
-* 📍 Osasco, Brasil | freelas e colabs
+- 🛠 Ferramentas principais: Figma, Photoshop e VS Code  
+- 📚 Sempre estudando o básico para manter uma base sólida e concreta  
+- 📍 Osasco, Brasil | freelas e colabs
 
-## 🌐 Conecte-se comigo
-
-<p align="left">
+### 🌐 Conecte-se comigo
+<div align="center">
   <a href="https://www.linkedin.com/in/christianmaximo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.behance.net/christian">
+  <a href="https://www.behance.net/UXchristian">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-</p>
+</div>
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,python,vscode" alt="Tech Stack" />
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai,html,css,js,python,vscode" alt="Tech Stack" />
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maaso7&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maaso7&theme=dark&hide_border=true&hide_title=true" alt="" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaso7&layout=compact&theme=dark&hide_border=true&hide_title=true&hide=jupyter%20notebook,html,css" alt="" width="48%" />
+</div>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UIChristian&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
-</p>
-
-## Projetos em destaque (pin depois)
-
-* **DADOS-PYTHON-BOOT-ALURA** – Bootcamp de dados em Python
-* Mais projetos UI/UX e designs em breve!
+### Projetos em destaque (pin depois)
+- **DADOS-PYTHON-BOOT-ALURA** – Bootcamp de dados em Python  
+- Mais projetos UI/UX e designs em breve!
 
 ---
