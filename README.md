@@ -8,44 +8,44 @@
 ---
 
 <br>
-### Sobre mim
+## ✨ Sobre mim
 
-**Christian** 
- 
-**Artista | SP** 
+**Christian**
+UI/UX Júnior | Artista
 
-Misturando **arte** 🎨 e **tecnologia** 💻 para transformar ideias em entregas digitais.  
+Misturando arte 🎨 e tecnologia 💻 para transformar ideias em pixels perfeitos.
 Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de máquina, conseguimos entregar um pouco de nós ao nosso trabalho.
 
-- Ferramentas principais: Figma, Photoshop e VS Code  
-- Sempre estudando o básico para manter uma base sólida e concreta  
-- Osasco, Brasil | freelas e colabs
+* 🛠️ Ferramentas principais: Figma, Photoshop e VS Code
+* 📚 Sempre estudando o básico para manter uma base sólida e concreta
+* 📍 Osasco, Brasil | freelas e colabs
 
-<div align="center">
+## 🌐 Conecte-se comigo
 
-<div align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/christianmaximo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/christian">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+</p>
 
-### Tech Stack
-<img src="https://skillicons.dev/icons?i=figma,photoshop,ai,html,css,js,python,vscode" alt="Tech Stack" />
+## 🛠️ Tech Stack
 
-<br><br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai,html,css,js,python,vscode" alt="Tech Stack" />
+</p>
 
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=UIChristian&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200&v=1" alt="GitHub Stats" width="65%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UIChristian&layout=compact&theme=dracula&hide_border=true&cache_seconds=7200&v=1" alt="Top Languages" width="65%" />
+## 📊 GitHub Stats
 
-<br><br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=UIChristian&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
+</p>
 
-### Projetos em Destaque
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UIChristian&repo=DADOS-PYTHON-BOOT-ALURA&theme=dracula&hide_border=true&cache_seconds=7200&v=1" alt="Bootcamp Dados Python - Alura" />
+## Projetos em destaque (pin depois)
 
-<br>
-
-*Mais projetos UI/UX e designs em breve...*
-
-<br>
+* **DADOS-PYTHON-BOOT-ALURA** – Bootcamp de dados em Python
+* Mais projetos UI/UX e designs em breve!
 
 ---
-Made with ❤️ in Osasco, BR
-</div>
