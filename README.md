@@ -32,11 +32,11 @@ Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de m
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaso7&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maaso7&theme=dark&hide_border=true&hide_title=true" alt="" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UIchristian&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UIchristian&theme=dark&hide_border=true&hide_title=true" alt="" width="48%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaso7&layout=compact&theme=dark&hide_border=true&hide_title=true&hide=jupyter%20notebook,html,css" alt="" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UIchristian&layout=compact&theme=dark&hide_border=true&hide_title=true&hide=jupyter%20notebook,html,css" alt="" width="48%" />
 </div>
 
 ### Projetos em destaque (pin depois)
