@@ -32,15 +32,14 @@ Acredito que, quando conseguimos solucionar necessidades seja ela humana ou de m
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaso7&show_icons=true&theme=dark&hide_border=true&hide_title=true" alt="" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maaso7&theme=dark&hide_border=true&hide_title=true" alt="" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ulrichsian&show_icons=true&theme=darcula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="60%" />
 </div>
+
+### Projetos em Destaque
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaso7&layout=compact&theme=dark&hide_border=true&hide_title=true&hide=jupyter%20notebook,html,css" alt="" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ulrichsian&repo=DADOS-PYTHON-BOOT-ALURA&theme=darcula&hide_border=true" alt="Bootcamp Dados Python - Alura" />
+  <!-- Adicione mais pins aqui quando tiver outros projetos prontos -->
 </div>
 
-### Projetos em destaque (pin depois)
-- **DADOS-PYTHON-BOOT-ALURA** – Bootcamp de dados em Python  
-- Mais projetos UI/UX e designs em breve!
-
+### Mais projetos UI/UX e designs em breve...
 ---
